@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffe599&height=110&section=header"/>
+<img width=1003% src="https://capsule-render.vercel.app/api?type=waving&color=ffe599&height=110&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f4d372&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GABRIEL+FONTINELES;I'm+23+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
